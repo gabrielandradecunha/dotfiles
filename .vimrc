@@ -26,6 +26,10 @@ call plug#begin()
 	Plug 'neoclide/coc.nvim'
 	" PHP Language Server
 	Plug 'yaegassy/coc-intelephense', {'do': 'yarn install --frozen-lockfile'}
+	" Blade Templates extension
+	Plug 'yaegassy/coc-blade', {'do': 'yarn install --frozen-lockfile'}
+	" Laravel Extension
+	Plug 'yaegassy/coc-laravel', {'do': 'yarn install --frozen-lockfile'}
 
 call plug#end()
 
@@ -35,6 +39,10 @@ let g:ale_lint_on_save = 1
 let g:ale_lint_on_text_changed = 'always'
 let g:ale_async = 1
 let g:ale_sign_column_always = 1
+
+" c
+let g:ale_linters = {'c': ['clangtidy']}
+let g:ale_c_clangtidy_executable = 'clang-tidy'
 
 " python
 let g:ale_python_flake8_executable = 'flake8'

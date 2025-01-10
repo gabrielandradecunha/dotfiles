@@ -1,0 +1,2 @@
+gabriel  seat0        2025-01-07 15:48 (login screen)
+gabriel  :0           2025-01-07 15:49 (:0)
