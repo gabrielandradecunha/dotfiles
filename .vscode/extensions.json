@@ -1,0 +1,485 @@
+[
+  {
+    "identifier": {
+      "id": "onecentlin.laravel-blade",
+      "uuid": "3b58a227-618a-4b57-a06b-6984a2a8d1ba"
+    },
+    "version": "1.36.1",
+    "location": {
+      "$mid": 1,
+      "path": "/home/gabriel/.vscode/extensions/onecentlin.laravel-blade-1.36.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "onecentlin.laravel-blade-1.36.1",
+    "metadata": {
+      "installedTimestamp": 1735790231949,
+      "pinned": false,
+      "source": "gallery",
+      "id": "3b58a227-618a-4b57-a06b-6984a2a8d1ba",
+      "publisherId": "ae5a5701-dff3-41f0-bdb1-adbf4a18997b",
+      "publisherDisplayName": "Winnie Lin",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "onecentlin.laravel5-snippets",
+      "uuid": "050d4900-7979-4d10-b7aa-e274f6ae8730"
+    },
+    "version": "1.18.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/gabriel/.vscode/extensions/onecentlin.laravel5-snippets-1.18.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "onecentlin.laravel5-snippets-1.18.0",
+    "metadata": {
+      "installedTimestamp": 1735790258325,
+      "pinned": false,
+      "source": "gallery",
+      "id": "050d4900-7979-4d10-b7aa-e274f6ae8730",
+      "publisherId": "ae5a5701-dff3-41f0-bdb1-adbf4a18997b",
+      "publisherDisplayName": "Winnie Lin",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode.cpptools-extension-pack",
+      "uuid": "3957b2f6-f086-49b5-a7b4-5da772123130"
+    },
+    "version": "1.3.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/gabriel/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.3.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode.cpptools-extension-pack-1.3.0",
+    "metadata": {
+      "installedTimestamp": 1735962920440,
+      "pinned": false,
+      "source": "gallery",
+      "id": "3957b2f6-f086-49b5-a7b4-5da772123130",
+      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode.cpptools-themes",
+      "uuid": "99b17261-8f6e-45f0-9ad5-a69c6f509a4f"
+    },
+    "version": "2.0.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/gabriel/.vscode/extensions/ms-vscode.cpptools-themes-2.0.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode.cpptools-themes-2.0.0",
+    "metadata": {
+      "installedTimestamp": 1735962920441,
+      "pinned": false,
+      "source": "gallery",
+      "id": "99b17261-8f6e-45f0-9ad5-a69c6f509a4f",
+      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode.cmake-tools",
+      "uuid": "7c889349-8749-43d4-8b5e-08939936d7f4"
+    },
+    "version": "1.19.52",
+    "location": {
+      "$mid": 1,
+      "path": "/home/gabriel/.vscode/extensions/ms-vscode.cmake-tools-1.19.52",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode.cmake-tools-1.19.52",
+    "metadata": {
+      "installedTimestamp": 1735962920441,
+      "pinned": false,
+      "source": "gallery",
+      "id": "7c889349-8749-43d4-8b5e-08939936d7f4",
+      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "twxs.cmake",
+      "uuid": "2be7cf14-2603-402e-9771-fd79df83cdf8"
+    },
+    "version": "0.0.17",
+    "location": {
+      "$mid": 1,
+      "path": "/home/gabriel/.vscode/extensions/twxs.cmake-0.0.17",
+      "scheme": "file"
+    },
+    "relativeLocation": "twxs.cmake-0.0.17",
+    "metadata": {
+      "installedTimestamp": 1735962920441,
+      "pinned": false,
+      "source": "gallery",
+      "id": "2be7cf14-2603-402e-9771-fd79df83cdf8",
+      "publisherId": "b5ab7991-81a8-4557-af54-4cb8e01e85c1",
+      "publisherDisplayName": "twxs",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode.makefile-tools",
+      "uuid": "e09cf600-90a1-414e-92a0-031f1a5391c6"
+    },
+    "version": "0.11.13",
+    "location": {
+      "$mid": 1,
+      "path": "/home/gabriel/.vscode/extensions/ms-vscode.makefile-tools-0.11.13",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode.makefile-tools-0.11.13",
+    "metadata": {
+      "installedTimestamp": 1735962942798,
+      "source": "gallery",
+      "id": "e09cf600-90a1-414e-92a0-031f1a5391c6",
+      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-azuretools.vscode-docker",
+      "uuid": "0479fc1c-3d67-49f9-b087-fb9069afe48f"
+    },
+    "version": "1.29.3",
+    "location": {
+      "$mid": 1,
+      "path": "/home/gabriel/.vscode/extensions/ms-azuretools.vscode-docker-1.29.3",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-azuretools.vscode-docker-1.29.3",
+    "metadata": {
+      "installedTimestamp": 1736212918868,
+      "source": "gallery",
+      "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+      "publisherId": "52b787f2-79a9-4f32-99b4-393afe3005d3",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode.cpptools",
+      "uuid": "690b692e-e8a9-493f-b802-8089d50ac1b2"
+    },
+    "version": "1.23.3",
+    "location": {
+      "$mid": 1,
+      "path": "/home/gabriel/.vscode/extensions/ms-vscode.cpptools-1.23.3-linux-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode.cpptools-1.23.3-linux-x64",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1736482931049,
+      "pinned": false,
+      "source": "gallery",
+      "id": "690b692e-e8a9-493f-b802-8089d50ac1b2",
+      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "linux-x64",
+      "updated": true,
+      "isPreReleaseVersion": true,
+      "hasPreReleaseVersion": true,
+      "preRelease": true
+    }
+  },
+  {
+    "identifier": {
+      "id": "shd101wyy.markdown-preview-enhanced",
+      "uuid": "3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a"
+    },
+    "version": "0.8.15",
+    "location": {
+      "$mid": 1,
+      "path": "/home/gabriel/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.15",
+      "scheme": "file"
+    },
+    "relativeLocation": "shd101wyy.markdown-preview-enhanced-0.8.15",
+    "metadata": {
+      "installedTimestamp": 1736655690773,
+      "pinned": false,
+      "source": "gallery",
+      "id": "3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a",
+      "publisherId": "deac4ec9-08f5-4752-aa45-c6f09e1f615d",
+      "publisherDisplayName": "Yiyi Wang",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "harryhopkinson.vim-theme",
+      "uuid": "1f62f1df-6f6c-43ff-9875-2935ba678106"
+    },
+    "version": "1.1.8",
+    "location": {
+      "$mid": 1,
+      "path": "/home/gabriel/.vscode/extensions/harryhopkinson.vim-theme-1.1.8",
+      "scheme": "file"
+    },
+    "relativeLocation": "harryhopkinson.vim-theme-1.1.8",
+    "metadata": {
+      "installedTimestamp": 1736655709621,
+      "pinned": false,
+      "source": "gallery",
+      "id": "1f62f1df-6f6c-43ff-9875-2935ba678106",
+      "publisherId": "f7f0da64-32e3-46d1-8468-f1e7fecfe02a",
+      "publisherDisplayName": "HarryHopkinson",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "redhat.vscode-yaml",
+      "uuid": "2061917f-f76a-458a-8da9-f162de22b97e"
+    },
+    "version": "1.15.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/gabriel/.vscode/extensions/redhat.vscode-yaml-1.15.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "redhat.vscode-yaml-1.15.0",
+    "metadata": {
+      "installedTimestamp": 1736656261013,
+      "pinned": false,
+      "source": "gallery",
+      "id": "2061917f-f76a-458a-8da9-f162de22b97e",
+      "publisherId": "eed56242-9699-4317-8bc7-e9f4b9bdd3ff",
+      "publisherDisplayName": "Red Hat",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-kubernetes-tools.vscode-kubernetes-tools",
+      "uuid": "4837e4f3-1b01-4732-b1a6-daa57ef64cab"
+    },
+    "version": "1.3.18",
+    "location": {
+      "$mid": 1,
+      "path": "/home/gabriel/.vscode/extensions/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.18",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-kubernetes-tools.vscode-kubernetes-tools-1.3.18",
+    "metadata": {
+      "installedTimestamp": 1736656261011,
+      "pinned": false,
+      "source": "gallery",
+      "id": "4837e4f3-1b01-4732-b1a6-daa57ef64cab",
+      "publisherId": "d5b943eb-b968-4c2d-b241-a117ce9c3961",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-python.debugpy",
+      "uuid": "4bd5d2c9-9d65-401a-b0b2-7498d9f17615"
+    },
+    "version": "2024.14.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/gabriel/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-python.debugpy-2024.14.0-linux-x64",
+    "metadata": {
+      "installedTimestamp": 1736656288166,
+      "pinned": false,
+      "source": "gallery",
+      "id": "4bd5d2c9-9d65-401a-b0b2-7498d9f17615",
+      "publisherId": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "linux-x64",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-python.python",
+      "uuid": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5"
+    },
+    "version": "2024.22.2",
+    "location": {
+      "$mid": 1,
+      "path": "/home/gabriel/.vscode/extensions/ms-python.python-2024.22.2-linux-x64",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-python.python-2024.22.2-linux-x64",
+    "metadata": {
+      "installedTimestamp": 1736656288160,
+      "pinned": false,
+      "source": "gallery",
+      "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
+      "publisherId": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "linux-x64",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-python.vscode-pylance",
+      "uuid": "364d2426-116a-433a-a5d8-a5098dc3afbd"
+    },
+    "version": "2024.12.1",
+    "location": {
+      "$mid": 1,
+      "path": "/home/gabriel/.vscode/extensions/ms-python.vscode-pylance-2024.12.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-python.vscode-pylance-2024.12.1",
+    "metadata": {
+      "installedTimestamp": 1736656288163,
+      "pinned": false,
+      "source": "gallery",
+      "id": "364d2426-116a-433a-a5d8-a5098dc3afbd",
+      "publisherId": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "equinusocio.vsc-material-theme-icons",
+      "uuid": "6959958f-be4d-42c4-8aa4-dc2c2f086b0a"
+    },
+    "version": "3.8.12",
+    "location": {
+      "$mid": 1,
+      "path": "/home/gabriel/.vscode/extensions/equinusocio.vsc-material-theme-icons-3.8.12",
+      "scheme": "file"
+    },
+    "relativeLocation": "equinusocio.vsc-material-theme-icons-3.8.12",
+    "metadata": {
+      "installedTimestamp": 1736659481705,
+      "pinned": false,
+      "source": "gallery",
+      "id": "6959958f-be4d-42c4-8aa4-dc2c2f086b0a",
+      "publisherId": "3b9d55d2-da9e-415a-9bea-8d6bc07147d8",
+      "publisherDisplayName": "EquinusocioDev",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "esbenp.prettier-vscode",
+      "uuid": "96fa4707-6983-4489-b7c5-d5ffdfdcce90"
+    },
+    "version": "11.0.0",
+    "location": {
+      "$mid": 1,
+      "path": "/home/gabriel/.vscode/extensions/esbenp.prettier-vscode-11.0.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "esbenp.prettier-vscode-11.0.0",
+    "metadata": {
+      "installedTimestamp": 1736671895700,
+      "pinned": false,
+      "source": "gallery",
+      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+      "publisherId": "d16f4e39-2ffb-44e3-9c0d-79d873570e3a",
+      "publisherDisplayName": "Prettier",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "amiralizadeh9480.laravel-extra-intellisense",
+      "uuid": "b52072d1-e507-4261-8935-f4d91a055d7d"
+    },
+    "version": "0.7.1",
+    "location": {
+      "$mid": 1,
+      "fsPath": "/home/gabriel/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.7.1",
+      "external": "file:///home/gabriel/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.7.1",
+      "path": "/home/gabriel/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.7.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "amiralizadeh9480.laravel-extra-intellisense-0.7.1",
+    "metadata": {
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "installedTimestamp": 1736893687605,
+      "pinned": false,
+      "source": "gallery",
+      "id": "b52072d1-e507-4261-8935-f4d91a055d7d",
+      "publisherId": "408616ef-0321-4001-b2f0-ae74e0f71aa2",
+      "publisherDisplayName": "amir",
+      "targetPlatform": "undefined",
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "preRelease": false
+    }
+  }
+]
